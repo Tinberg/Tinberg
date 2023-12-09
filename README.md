@@ -1,7 +1,7 @@
 # About me 
 - 👋 Hi, I’m Mathias Tinberg
 - 🌱 I’m currently learning **Javascript, React.js & Bootstrap**
-- 📫 How to reach me: [tinberg92@hotmail.com](tinberg92@hotmail.com)
+- 📫 How to reach me: [tinberg92@hotmail.com](mailto:tinberg92@hotmail.com)
 
 ## Tech stack
 
